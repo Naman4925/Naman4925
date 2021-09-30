@@ -86,4 +86,4 @@ Here are some ideas to get you started:
     
 
 
-[linkedin]: https://www.linkedin.com/in/naman-singhal-876099190
+[linkedin]: https://www.linkedin.com/in/naman-singhal-876099190/
