@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=00599C)
+![HTML](https://www.google.com/search?q=html&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjO8J2WhdPzAhUJgtgFHaeTBIAQ_AUoAnoECAEQBA&biw=1440&bih=821&dpr=2#imgrc=Bq4WTYc6O16thM)
 <!-- <img alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/> -->
 <!-- <img alt="Android Studio" width="26px" src="https://github.com/eg7409/eg7409/blob/main/android.png"/> -->
 
